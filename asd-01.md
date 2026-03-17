@@ -1,0 +1,1 @@
+It seems I couldn't fetch the weather data directly. You can check reliable weather websites like Weather.com, AccuWeather, or BBC Weather for Pune's current weather. Alternatively, I can guide you on using APIs like OpenWeatherMap to fetch live weather data programmatically. Let me know how you'd like to proceed!
